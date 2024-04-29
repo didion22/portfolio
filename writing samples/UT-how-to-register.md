@@ -34,6 +34,7 @@ Student registration is handled using UT Austin's Administrative Computer System
    <img width="847" alt="added" src="https://github.com/didion22/portfolio/assets/77946386/fd8a4e09-db19-40e0-8b75-235764ad6f7a">
 
 ## Drop a Class
+(note: need to add dropping class post 12th class day)
 9. To drop a class from a student's schedule, type `3` in the ACTION CODE field.
 
 10. Tab over or click on the UNIQUE field, then type the `5-digit unique number` for the course you want to drop from a student's schedule.
@@ -41,6 +42,7 @@ Student registration is handled using UT Austin's Administrative Computer System
 11. Hit Enter on your keyboard. The dropped course should disappear from the student's class schedule, and the student's classes and hours should update accordingly.
 
 ## Change a Class Grading Basis
+(note: warning about 20% rule)
 The default grading basis for most classes at UT Austin is letter-grade. However, in some cases, a student may want to take a class as Credit/No Credit, meaning that the class will not be factored into the student's GPA calculation. 
 
 12. 
