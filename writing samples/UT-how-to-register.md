@@ -5,12 +5,12 @@ Student registration is handled using UT Austin's Administrative Computer System
 
 ## Access UT mainframe - Student Portal
 1. Navigate to the [UT mainframe online](https://virtel.its.utexas.edu/w2h/appmenu.htm+applist).
+   
+2. Sign in with your UT EID and password.
 
-2. Click the option `Students COM-PLETE`, which will load the Student Portal in the UT mainframe.
+3. Click the option `Students COM-PLETE`, which will load the Student Portal in the UT mainframe.
    
    <img width="1219" alt="students-com-plete" src="https://github.com/didion22/portfolio/assets/77946386/02743f67-3f92-4745-a891-12ad50a40584">
-   
-3. Sign in with your UT EID and password.
 
 ## Select the Online Registration System
 4. Once inside the Student Portal, select the Online Registration System by typing `nrttvr` below the Enter Input text, then hit Enter on your keyboard.
