@@ -1,19 +1,19 @@
-# How to Register Students Using UT mainframe
+# How to Process Graduate Student Registration Using the Online Registration System
 > This guide is intended for Graduate Coordinators, Student Advisors, and other academic administrators at UT Austin.
 
-Student registration is handled using UT Austin's Administrative Computer System, or *mainframe*. This guide will walk you step by step through the student registration process, allowing you to manage student class schedules, add and drop classes, and change class grading bases. 
+Graduate student registration is handled using the Online Registration System in UT Austin's Administrative Computer System, or mainframe. This guide will walk you through accessing the Online Registration System, as well as actions you can complete within the system, including: adding classes, dropping classes, and change class grading bases. 
 
-## Access UT mainframe - Student Portal
-1. Navigate to the [UT mainframe online](https://virtel.its.utexas.edu/w2h/appmenu.htm+applist).
-   
-2. Sign in with your UT EID and password.
+## Access the UT mainframe - Student Portal
+* Navigate to the [UT mainframe online](https://virtel.its.utexas.edu/w2h/appmenu.htm+applist).
 
-3. Click the option `Students COM-PLETE`, which will load the Student Portal in the UT mainframe.
+* Sign in with your UT EID and password.
+
+* Click the option `Students COM-PLETE`, which will load the Student Portal in the UT mainframe.
    
    <img width="1219" alt="students-com-plete" src="https://github.com/didion22/portfolio/assets/77946386/02743f67-3f92-4745-a891-12ad50a40584">
 
 ## Select the Online Registration System
-4. Once inside the Student Portal, select the Online Registration System by typing `nrttvr` below the Enter Input text, then hit Enter on your keyboard.
+* Once inside the Student Portal, select the Online Registration System by typing `nrttvr` below the Enter Input text, then hit Enter on your keyboard.
 
    <img width="790" alt="nrttvr" src="https://github.com/didion22/portfolio/assets/77946386/2ae87f56-7d47-407a-bbad-ea2c240b6e26">
 
@@ -21,25 +21,25 @@ Student registration is handled using UT Austin's Administrative Computer System
 >
 > The Online Registration System is only accessible during registration windows. To see when registration windows occur, check the [Registration Information Sheet](https://utdirect.utexas.edu/registrar/ris.WBX) for the student you are attempting to register. 
 
-5. When loaded successfully, the Online Registration System will appear and display the current registration semester. Type the EID of the student you are attempting to register, then hit Enter on your keyboard.
+* When loaded successfully, the Online Registration System will appear and display the current registration semester. Type the EID of the student you are attempting to register, then hit Enter on your keyboard. This will grant you access to the selected student's registration record. 
    
    <img width="790" alt="Screenshot 2024-04-28 at 3 57 59 PM" src="https://github.com/didion22/portfolio/assets/77946386/51fb4691-8858-4a9b-90ee-16d295075d5f">
 
 ## Add a Class 
-6. You now have access to an individual student's registration record. To register the student for a class, type `2` in the ACTION CODE field.
+* To register the student for a class, type `2` in the ACTION CODE field.
 
-7. In the UNIQUE field, type the `5-digit unique number` (e.g.: 50599) for the course you want to add to the student's schedule. Course unique numbers can be found in the [Course Schedule](https://registrar.utexas.edu/schedules).
+* In the UNIQUE field, type the `5-digit unique number` (e.g.: 50599) for the course you want to add to the student's schedule. Course unique numbers can be found in the [Course Schedule](https://registrar.utexas.edu/schedules).
 
-8. Hit Enter on your keyboard. If added successfully, the course number will appear below, and the student's classes and hours should update.
+* Hit Enter on your keyboard. If added successfully, the course number will appear below, and the student's classes and hours should update.
 
    <img width="847" alt="added" src="https://github.com/didion22/portfolio/assets/77946386/1ba8eed5-c20d-432b-af61-1b2407106343">
 
 ## Drop a Class
-9. To drop a class from a student's schedule, type `3` in the ACTION CODE field.
+* To drop a class from a student's schedule, type `3` in the ACTION CODE field.
 
-10. In the UNIQUE field, type the `5-digit unique number` for the course you want to drop from a student's schedule.
+* In the UNIQUE field, type the `5-digit unique number` for the course you want to drop from a student's schedule.
 
-11. Hit Enter on your keyboard. The dropped course should disappear from the student's class schedule, and the student's classes and hours should update accordingly.
+* Hit Enter on your keyboard. The dropped course should disappear from the student's class schedule, and the student's classes and hours should update accordingly.
 
 ## Change a Class Grading Basis
 
@@ -51,11 +51,11 @@ Student registration is handled using UT Austin's Administrative Computer System
 >   
 > If you are unsure about the percentage of coursework a student has taken as Credit/No Credit, you can view their full academic record in [EASI](https://utdirect.utexas.edu/easi/index.WBX).
 
-12. To change the grading basis of a class, type `4` in the ACTION CODE field.
+* To change the grading basis of a class, type `4` in the ACTION CODE field.
 
-13. In the UNIQUE field, type the `5-digit unique number` for the course you are attempting to change.
+* In the UNIQUE field, type the `5-digit unique number` for the course you are attempting to change.
 
-14. Hit Enter on your keyboard. The course should now display a _Z_ next to it, indicating that it is being taken for Credit/No Credit. The system will also display a text prompt confirming that the course has been changed to Credit/No Credit.
+* Hit Enter on your keyboard. The course should now display a _Z_ next to it, indicating that it is being taken for Credit/No Credit. The system will also display a text prompt confirming that the course has been changed to Credit/No Credit.
 
     ![Screenshot 2024-04-29 at 1 15 30 PM](https://github.com/didion22/portfolio/assets/77946386/d9f2c834-69e1-4674-8db9-1cafb658b8f8)
 
