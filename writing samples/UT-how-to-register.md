@@ -60,7 +60,7 @@ Graduate student registration is handled using the Online Registration System in
 
 * In the **UNIQUE** field, type the `5-digit unique number` for the class you are attempting to change.
 
-* Select the Enter key. The class should now display a _Z_ next to it, indicating that it is being taken for Credit/No Credit. The system will also display a text prompt confirming that the class has been changed to Credit/No Credit.
+* Select the Enter key. The class should now display a **Z** next to it, indicating that it is being taken for Credit/No Credit. The system will also display a text prompt confirming that the class has been changed to Credit/No Credit.
 
     ![Screenshot 2024-04-29 at 1 15 30 PM](https://github.com/didion22/portfolio/assets/77946386/d9f2c834-69e1-4674-8db9-1cafb658b8f8)
 
