@@ -35,9 +35,9 @@ Graduate student registration is handled using the Online Registration System in
 
 * In the **UNIQUE:** box, type the `5-digit unique number` (for example, `50599`) for the class you want to add to the student's schedule. Class unique numbers can be found in the [Course Schedule](https://registrar.utexas.edu/schedules).
 
-* Select the Enter key. If added successfully, the class number will appear below, and the student's classes and hours should update.
+* Select the Enter key. If added successfully, the new class will appear below. 
 
-   <img width="847" alt="added" src="https://github.com/didion22/portfolio/assets/77946386/1ba8eed5-c20d-432b-af61-1b2407106343">
+   <img width="847" alt="added" src="https://github.com/didion22/portfolio/assets/77946386/cdb98cbd-a770-4e24-b9d8-3bad8127d4c3">
 
 ## Drop a Class
 * To drop a class from a student's schedule, type `3` in the ACTION CODE field.
