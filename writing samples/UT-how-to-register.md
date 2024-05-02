@@ -33,7 +33,7 @@ Graduate student registration is handled using the Online Registration System in
 ## Add a Class 
 * To add a class to a student's schedule, type `2` in the **ACTION CODE** field.
 
-* In the **UNIQUE** field, type the `5-digit unique number` (for example, `50599`) for the class you want to add to a student's schedule. Class unique numbers can be found in the [Course Schedule](https://registrar.utexas.edu/schedules).
+* In the **UNIQUE** field, type the `5-digit unique number` (for example, `50599`) of the class you want to add to a student's schedule. Class unique numbers can be found in the [Course Schedule](https://registrar.utexas.edu/schedules).
 
 * Select the Enter key. If added successfully, the new class will appear in the student's class list below. 
 
@@ -42,19 +42,19 @@ Graduate student registration is handled using the Online Registration System in
 ## Drop a Class
 * To drop a class from a student's schedule, type `3` in the **ACTION CODE** field.
 
-* In the **UNIQUE** field, type the `5-digit unique number` for the course you want to drop from a student's schedule.
+* In the **UNIQUE** field, type the `5-digit unique number` of the class you want to drop from a student's schedule.
 
-* Select the Enter key. If dropped successfully, the dropped course will disappear from the student's class list below.
+* Select the Enter key. If dropped successfully, the dropped class will disappear from the student's class list below.
 
 ## Change a Class Grading Basis
 
 > [!WARNING]
 >
-> [Graduate School Policy](https://gradschool.utexas.edu/navigating/policies/academic/grades) limits the coursework a student can take as Credit/No Credit.
-> * **Master's students**: No more than 20% of coursework can be taken as Credit/No Credit.
+> [Graduate School Policy](https://gradschool.utexas.edu/navigating/policies/academic/grades) limits the classwork a student can take as Credit/No Credit.
+> * **Master's students**: No more than 20% of classwork can be taken as Credit/No Credit.
 > * **Doctoral students**: No more than "a comparable portion of the doctoral Program of Work" as Credit/No Credit. Check with the student's Graduate Advisor to determine a "comparable portion".
 >   
-> If you are unsure about the percentage of coursework a student has taken as Credit/No Credit, you can view their full academic record in [EASI](https://utdirect.utexas.edu/easi/index.WBX).
+> If you are unsure about the percentage of classwork a student has taken as Credit/No Credit, you can view their full academic record in [EASI](https://utdirect.utexas.edu/easi/index.WBX).
 
 * To change the grading basis of a class, type `4` in the **ACTION CODE** field.
 
@@ -65,11 +65,11 @@ Graduate student registration is handled using the Online Registration System in
     ![Screenshot 2024-04-29 at 1 15 30 PM](https://github.com/didion22/portfolio/assets/77946386/d9f2c834-69e1-4674-8db9-1cafb658b8f8)
 
 ## Common Pitfalls
-_Blocked from registering a student for a course outside your department?_
-* The Online Registration System prevents administrators from registering students for courses outside their department major codes. To register a student for a course outside your department, contact the Graduate Coordinator for the department offering the course. A full list of department contacts can be found on the Graduate School's [Degrees & Programs webpage](https://gradschool.utexas.edu/degrees-programs).
+_Blocked from registering a student for a class outside your department?_
+* The Online Registration System prevents administrators from registering students for classes outside their department major codes. To register a student for a class outside your department, contact the Graduate Coordinator for the department offering the class. A full list of department contacts can be found on the Graduate School's [Degrees & Programs webpage](https://gradschool.utexas.edu/degrees-programs).
 
 _Unable to register a student after the 12th class day?_
 * Registration after the 12th class day is considered Late Registration and cannot be completed using the mainframe's Online Registration System. Instead, fill out the Graduate School's [Request for Late Registration Form](https://utexas.box.com/s/t7x1iu0dgr9xjy3qud65rtscxjdv3d6h) and obtain a petition from the student's Graduate Advisor explaining the reason for the late registration. Submit both the form and petition to [GradStudentSvcs@austin.utexas.edu](mailto:gradstudentsvcs@austin.utexas.edu).
 
 _Unable to drop or change the grading basis of a class after the 12th class day?_
-* Drops and grading basis changes after the 12th class day cannot be completed using the mainframe's Online Registration System. Instead, fill out the [Graduate Add/Drop Form](https://lbj.utexas.edu/sites/default/files/add_drop_form_fillable_2020_1.pdf), which must be signed by the student, course instructor(s), and student's Graduate Advisor. Submit the form to [GradStudentSvcs@austin.utexas.edu](mailto:gradstudentsvcs@austin.utexas.edu).
+* Drops and grading basis changes after the 12th class day cannot be completed using the mainframe's Online Registration System. Instead, fill out the [Graduate Add/Drop Form](https://lbj.utexas.edu/sites/default/files/add_drop_form_fillable_2020_1.pdf), which must be signed by the student, class instructor(s), and student's Graduate Advisor. Submit the form to [GradStudentSvcs@austin.utexas.edu](mailto:gradstudentsvcs@austin.utexas.edu).
