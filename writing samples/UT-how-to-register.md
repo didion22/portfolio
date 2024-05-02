@@ -22,9 +22,13 @@ Graduate student registration is handled using the Online Registration System in
   
    <img width="790" alt="nrttvr" src="https://github.com/didion22/portfolio/assets/77946386/2ae87f56-7d47-407a-bbad-ea2c240b6e26">
 
-* On the Online Registration System start screen, type the UT EID of the student you are attempting to register, then select the Enter key. You can now view a student's class schedule for the indicated semester and make any desired changes, such as adding a class, dropping a class, or changing a class grading basis.
+* On the Online Registration System start screen, type the UT EID of the student you are attempting to register, then select the Enter key. 
    
    <img width="790" alt="Screenshot 2024-04-28 at 3 57 59 PM" src="https://github.com/didion22/portfolio/assets/77946386/51fb4691-8858-4a9b-90ee-16d295075d5f">
+
+* You can now view a student's class schedule for the indicated semester and make any desired changes, such as adding a class, dropping a class, or changing a class grading basis.
+
+  ![Screenshot 2024-05-02 at 3 05 40 PM](https://github.com/didion22/portfolio/assets/77946386/2b07013f-46ff-4202-99ef-f0aae7e34aff)
 
 ## Add a Class 
 * To add a class to a student's schedule, type `2` in the **ACTION CODE** box.
