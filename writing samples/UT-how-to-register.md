@@ -52,15 +52,15 @@ Graduate student registration is handled using the Online Registration System in
 >
 > [Graduate School Policy](https://gradschool.utexas.edu/navigating/policies/academic/grades) limits the classwork a student can take as Credit/No Credit.
 > * **Master's students**: No more than 20% of classwork can be taken as Credit/No Credit.
-> * **Doctoral students**: No more than "a comparable portion of the doctoral Program of Work" as Credit/No Credit. Check with the student's Graduate Advisor to determine a "comparable portion".
+> * **Doctoral students**: No more than "a comparable portion of the doctoral Program of Work" can be taken as Credit/No Credit. Check with the student's Graduate Advisor to determine a "comparable portion".
 >   
-> If you are unsure about the percentage of classwork a student has taken as Credit/No Credit, you can view their full academic record in [EASI](https://utdirect.utexas.edu/easi/index.WBX).
+> If you're unsure about the percentage of classwork a student has taken as Credit/No Credit, you can view their full academic record in [EASI](https://utdirect.utexas.edu/easi/index.WBX).
 
 * To change the grading basis of a class, type `4` in the **ACTION CODE** field.
 
 * In the **UNIQUE** field, type the `5-digit unique number` for the class you are attempting to change.
 
-* Select the Enter key. The class should now display a **Z** next to it, indicating that it is being taken for Credit/No Credit. The system will also display a text prompt confirming that the class has been changed to Credit/No Credit.
+* Select the Enter key. The class should now display a **Z** next to it, indicating that it is being taken as Credit/No Credit. The system will also display a text prompt confirming that the class has been changed to Credit/No Credit.
 
     ![Screenshot 2024-04-29 at 1 15 30 PM](https://github.com/didion22/portfolio/assets/77946386/d9f2c834-69e1-4674-8db9-1cafb658b8f8)
 
