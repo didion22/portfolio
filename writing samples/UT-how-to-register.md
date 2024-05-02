@@ -33,7 +33,7 @@ Graduate student registration is handled using the Online Registration System in
 ## Add a Class 
 * To add a class to a student's schedule, type `2` in the **ACTION CODE** field.
 
-* In the **UNIQUE:** field, type the `5-digit unique number` (for example, `50599`) for the class you want to add to the student's schedule. Class unique numbers can be found in the [Course Schedule](https://registrar.utexas.edu/schedules).
+* In the **UNIQUE** field, type the `5-digit unique number` (for example, `50599`) for the class you want to add to the student's schedule. Class unique numbers can be found in the [Course Schedule](https://registrar.utexas.edu/schedules).
 
 * Select the Enter key. If added successfully, the new class will appear in the student's class list below. 
 
