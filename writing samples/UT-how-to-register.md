@@ -31,20 +31,20 @@ Graduate student registration is handled using the Online Registration System in
   ![Screenshot 2024-05-02 at 3 05 40 PM](https://github.com/didion22/portfolio/assets/77946386/0f422900-e531-462f-84ee-d34cf6af57cb)
 
 ## Add a Class 
-* To add a class to a student's schedule, type `2` in the **ACTION CODE** box.
+* To add a class to a student's schedule, type `2` in the **ACTION CODE** field.
 
-* In the **UNIQUE:** box, type the `5-digit unique number` (for example, `50599`) for the class you want to add to the student's schedule. Class unique numbers can be found in the [Course Schedule](https://registrar.utexas.edu/schedules).
+* In the **UNIQUE:** field, type the `5-digit unique number` (for example, `50599`) for the class you want to add to the student's schedule. Class unique numbers can be found in the [Course Schedule](https://registrar.utexas.edu/schedules).
 
-* Select the Enter key. If added successfully, the new class will appear below. 
+* Select the Enter key. If added successfully, the new class will appear in the student's class list below. 
 
    <img width="847" alt="added" src="https://github.com/didion22/portfolio/assets/77946386/cdb98cbd-a770-4e24-b9d8-3bad8127d4c3">
 
 ## Drop a Class
-* To drop a class from a student's schedule, type `3` in the ACTION CODE field.
+* To drop a class from a student's schedule, type `3` in the **ACTION CODE** field.
 
-* In the UNIQUE field, type the `5-digit unique number` for the course you want to drop from a student's schedule.
+* In the **UNIQUE** field, type the `5-digit unique number` for the course you want to drop from a student's schedule.
 
-* Select the Enter key. The dropped course should disappear from the student's class schedule, and the student's classes and hours should update accordingly.
+* Select the Enter key. The dropped course should disappear from the student's class list below.
 
 ## Change a Class Grading Basis
 
@@ -56,11 +56,11 @@ Graduate student registration is handled using the Online Registration System in
 >   
 > If you are unsure about the percentage of coursework a student has taken as Credit/No Credit, you can view their full academic record in [EASI](https://utdirect.utexas.edu/easi/index.WBX).
 
-* To change the grading basis of a class, type `4` in the ACTION CODE field.
+* To change the grading basis of a class, type `4` in the **ACTION CODE** field.
 
-* In the UNIQUE field, type the `5-digit unique number` for the course you are attempting to change.
+* In the **UNIQUE** field, type the `5-digit unique number` for the class you are attempting to change.
 
-* Select the Enter key. The course should now display a _Z_ next to it, indicating that it is being taken for Credit/No Credit. The system will also display a text prompt confirming that the course has been changed to Credit/No Credit.
+* Select the Enter key. The class should now display a _Z_ next to it, indicating that it is being taken for Credit/No Credit. The system will also display a text prompt confirming that the class has been changed to Credit/No Credit.
 
     ![Screenshot 2024-04-29 at 1 15 30 PM](https://github.com/didion22/portfolio/assets/77946386/d9f2c834-69e1-4674-8db9-1cafb658b8f8)
 
