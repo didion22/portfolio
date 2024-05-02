@@ -12,8 +12,8 @@ Graduate student registration is handled using the Online Registration System in
    
    <img width="1219" alt="students-com-plete" src="https://github.com/didion22/portfolio/assets/77946386/02743f67-3f92-4745-a891-12ad50a40584">
 
-## Enter the Online Registration System
-* To enter the Online Registration System, click in the space below **Enter Input:** and type `nrttvr`, then select the Enter key.
+## Open the Online Registration System
+* To open the Online Registration System, click in the space below **Enter Input:** and type `nrttvr`, then select the Enter key.
 
 > [!NOTE]
 >
