@@ -1,4 +1,4 @@
-# How to Use the Online Registration System
+# How to Use UT's Online Registration System
 > This guide is intended for Graduate Coordinators, Student Advisors, and other academic administrators at UT Austin.
 
 Graduate student registration is handled using the Online Registration System in the UT mainframe. Whether you want to add or drop a class from a student's schedule, or change a class grading basis, this guide will walk you through accessing and using the Online Registration System.
