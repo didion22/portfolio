@@ -13,12 +13,13 @@ Graduate student registration is handled using the Online Registration System in
    <img width="1219" alt="students-com-plete" src="https://github.com/didion22/portfolio/assets/77946386/02743f67-3f92-4745-a891-12ad50a40584">
 
 ## Open the Online Registration System
-* To open the Online Registration System, click in the space below **Enter Input:** and type `nrttvr`, then select the Enter key.
 
 > [!NOTE]
 >
 > The Online Registration System is only accessible during registration windows. Check the [Registration Information Sheet](https://utdirect.utexas.edu/registrar/ris.WBX) to see when registration windows occur.
-> 
+
+* To open the Online Registration System, click in the space below **Enter Input:** and type `nrttvr`, then select the Enter key.
+  
    <img width="790" alt="nrttvr" src="https://github.com/didion22/portfolio/assets/77946386/2ae87f56-7d47-407a-bbad-ea2c240b6e26">
 
 * On the Online Registration System start screen, type the UT EID of the student you are attempting to register, then select the Enter key. You can now view a student's class schedule for the indicated semester and make any desired changes, such as adding a class, dropping a class, or changing a class grading basis.
