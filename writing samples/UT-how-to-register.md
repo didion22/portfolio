@@ -28,7 +28,7 @@ Graduate student registration is handled using the Online Registration System in
 
 * You can now view a student's class schedule for the indicated semester and make any desired changes, such as adding a class, dropping a class, or changing a class grading basis.
 
-  ![Screenshot 2024-05-02 at 3 05 40 PM](https://github.com/didion22/portfolio/assets/77946386/db91688d-9e6d-414c-ae05-22222af5bc21)
+  ![Screenshot 2024-05-02 at 3 05 40 PM](https://github.com/didion22/portfolio/assets/77946386/0f422900-e531-462f-84ee-d34cf6af57cb)
 
 ## Add a Class 
 * To add a class to a student's schedule, type `2` in the **ACTION CODE** box.
