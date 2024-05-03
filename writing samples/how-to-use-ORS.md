@@ -40,7 +40,7 @@ Graduate student registration is handled using the Online Registration System in
 
 3. Press the Enter key. If added successfully, the new class will appear below in the student's class schedule. 
 
-   <img width="847" alt="added" src="https://github.com/didion22/portfolio/assets/77946386/cb358a12-4492-49e4-b1c6-90bf04449321">
+   <img width="847" alt="added" src="https://github.com/didion22/portfolio/assets/77946386/08316a8a-c6ad-4fde-a2de-f532096a2b2a">
 
 ---
 ### Drop a Class
