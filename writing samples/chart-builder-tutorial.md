@@ -1,4 +1,4 @@
-# How to Create a Chart using Qrvey's Chart Builder
+# Chart Builder Tutorial
 
 Qrvey's Partner Platform allows you to quickly and easily visualize your data using the Chart Builder. This guide will walk you through the Chart Builder architecture, as well as how to create charts using Chart Builder.
 
