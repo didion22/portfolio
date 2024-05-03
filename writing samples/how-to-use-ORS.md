@@ -30,7 +30,7 @@ The Online Registration System is an application in the UT mainframe that allows
 
    ![Screenshot 2024-05-02 at 3 05 40 PM](https://github.com/didion22/portfolio/assets/77946386/0f422900-e531-462f-84ee-d34cf6af57cb)
 
-## Adjust the Student's Class Schedule
+## Adjust the student's class schedule
 
 ### Add a Class 
 1. Type `2` in the **ACTION CODE** field.
