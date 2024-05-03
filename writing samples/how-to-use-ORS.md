@@ -18,7 +18,7 @@ The Online Registration System is an application in the UT Austin mainframe that
 >
 > The Online Registration System will only run during registration windows. Check your student's [Registration Information Sheet](https://utdirect.utexas.edu/registrar/ris.WBX) to see when registration windows occur.
 
-1. To run the Online Registration System application, click in the space below **Enter Input:** and type `nrttvr`, then press the Enter key.
+1. On the Student Portal start screen, click in the space below **Enter Input:** and type `nrttvr`, then press the Enter key.
   
    <img width="790" alt="nrttvr" src="https://github.com/didion22/portfolio/assets/77946386/2ae87f56-7d47-407a-bbad-ea2c240b6e26">
 
@@ -33,22 +33,22 @@ The Online Registration System is an application in the UT Austin mainframe that
 ## Adjust the Student's Class Schedule
 
 ### Add a Class 
-1. To add a class to a student's schedule, type `2` in the **ACTION CODE** field.
+1. Type `2` in the **ACTION CODE** field.
 
 2. In the **UNIQUE** field, type the `5-digit unique number` (for example, `50599`) of the class you want to add to a student's schedule. Class unique numbers can be found in the [Course Schedule](https://registrar.utexas.edu/schedules).
 
-3. Press the Enter key. If added successfully, the new class will appear below in the student's class schedule. 
+3. Press the Enter key. If added successfully, the new class information will appear below in the student's class schedule. 
 
    <img width="847" alt="added" src="https://github.com/didion22/portfolio/assets/77946386/08316a8a-c6ad-4fde-a2de-f532096a2b2a">
 
 ---
 ### Drop a Class
 
-1. To drop a class from a student's schedule, type `3` in the **ACTION CODE** field.
+1. Type `3` in the **ACTION CODE** field.
 
 2. In the **UNIQUE** field, type the `5-digit unique number` of the class you want to drop from a student's schedule.
 
-3. Press the Enter key. If dropped successfully, the dropped class will disappear from the student's class schedule below.
+3. Press the Enter key. If dropped successfully, the dropped class information will disappear from the student's class schedule.
 
 ---------------
 ### Change a Class Grading Basis
@@ -61,11 +61,11 @@ The Online Registration System is an application in the UT Austin mainframe that
 >   
 > If you're unsure about the percentage of classes a student has taken as Credit/No Credit, you can view their full academic record in [EASI](https://utdirect.utexas.edu/easi/index.WBX).
 
-1. To change the grading basis of a class, type `4` in the **ACTION CODE** field.
+1. Type `4` in the **ACTION CODE** field.
 
 2. In the **UNIQUE** field, type the `5-digit unique number` for the class you are attempting to change.
 
-3. Press the Enter key. In the student's class schedule below, the class should now display a **Z** next to it, indicating that it is being taken as Credit/No Credit. The system will also display a text prompt confirming that the class has been changed to Credit/No Credit.
+3. Press the Enter key. In the student's class schedule below, a **Z** will appear next to the affected class, indicating that it is being taken as Credit/No Credit. The application will also display a text prompt confirming that the class has been changed to Credit/No Credit.
 
     ![Screenshot 2024-04-29 at 1 15 30 PM](https://github.com/didion22/portfolio/assets/77946386/d9f2c834-69e1-4674-8db9-1cafb658b8f8)
 
