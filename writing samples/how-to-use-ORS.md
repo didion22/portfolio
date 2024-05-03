@@ -55,11 +55,11 @@ The Online Registration System is an application in the UT Austin mainframe that
 
 > [!WARNING]
 >
-> [Graduate School Policy](https://gradschool.utexas.edu/navigating/policies/academic/grades) how many classes a student can take as Credit/No Credit.
-> * **Master's students**: No more than 20% of all classes can be taken as Credit/No Credit.
-> * **Doctoral students**: No more than "a comparable portion of the doctoral Program of Work" can be taken as Credit/No Credit. Check with the student's Graduate Advisor to determine a "comparable portion".
+> [Graduate School Policy](https://gradschool.utexas.edu/navigating/policies/academic/grades) limits how many classes a student can take as Credit/No Credit.
+> * **Master's students**: No more than 20% of the Master's Program of Work can be taken as Credit/No Credit.
+> * **Doctoral students**: No more than "a comparable portion" of the doctoral Program of Work can be taken as Credit/No Credit. Check with the student's Graduate Advisor to determine a "comparable portion".
 >   
-> If you're unsure about the percentage of classes a student has taken as Credit/No Credit, you can view their full academic record in [EASI](https://utdirect.utexas.edu/easi/index.WBX).
+> If you're unsure about the number of classes a student has taken as Credit/No Credit, you can view their full academic record in [EASI](https://utdirect.utexas.edu/easi/index.WBX).
 
 1. Type `4` in the **ACTION CODE** field.
 
