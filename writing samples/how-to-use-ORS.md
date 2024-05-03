@@ -22,15 +22,14 @@ The Online Registration System is an application in the UT mainframe that allows
   
    <img width="790" alt="nrttvr" src="https://github.com/didion22/portfolio/assets/77946386/2ae87f56-7d47-407a-bbad-ea2c240b6e26">
 
-2. Type the UT EID of the student you are attempting to register, then press the Enter key. 
+## View and adjust a student's class schedule
+1. Type the UT EID of the student you are attempting to register, then press the Enter key. 
 
    <img width="767" alt="Screenshot 2024-04-28 at 2 41 20 PM copy" src="https://github.com/didion22/portfolio/assets/77946386/5be8a8bf-136e-4878-be29-2c8c74a5cfa2">
 
-3. You can now view a student's class schedule for the indicated semester and make any desired changes, such as adding a class, dropping a class, or changing a class grading basis.
+2. You can now view a student's class schedule for the indicated semester and make any desired changes, such as adding a class, dropping a class, or changing a class grading basis.
 
    ![Screenshot 2024-05-02 at 3 05 40 PM](https://github.com/didion22/portfolio/assets/77946386/0f422900-e531-462f-84ee-d34cf6af57cb)
-
-## Adjust a student's class schedule
 
 ### Add a Class 
 1. Type `2` in the **ACTION CODE** field.
