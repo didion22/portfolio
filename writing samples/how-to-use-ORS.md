@@ -18,12 +18,12 @@ The Online Registration System is an application in the UT mainframe that allows
 >
 > The Online Registration System will only run during registration windows. Check your student's [Registration Information Sheet](https://utdirect.utexas.edu/registrar/ris.WBX) to see when registration windows occur.
 
-1. On the Student Portal startup screen, click in the space below **Enter Input:** and type `nrttvr`, then press the Enter key. This will run the Online Registration System application.
+1. On the Student Portal startup screen, click in the space below **Enter Input:** and type `nrttvr`, then press the Enter key.
   
    <img width="790" alt="nrttvr" src="https://github.com/didion22/portfolio/assets/77946386/2ae87f56-7d47-407a-bbad-ea2c240b6e26">
 
 ## View and adjust a student's class schedule
-1. Type the UT EID of the student you are attempting to register, then press the Enter key. 
+1. Once the Online Registration System opens, type the UT EID of the student you are attempting to register, then press the Enter key. 
 
    <img width="767" alt="Screenshot 2024-04-28 at 2 41 20 PM copy" src="https://github.com/didion22/portfolio/assets/77946386/5be8a8bf-136e-4878-be29-2c8c74a5cfa2">
 
