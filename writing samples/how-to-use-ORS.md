@@ -16,7 +16,7 @@ Graduate student registration is handled using the Online Registration System in
 
 > [!NOTE]
 >
-> The Online Registration System is only accessible during registration windows. Check the [Registration Information Sheet](https://utdirect.utexas.edu/registrar/ris.WBX) to see when registration windows occur.
+> The Online Registration System is only accessible during registration windows. Check your student's [Registration Information Sheet](https://utdirect.utexas.edu/registrar/ris.WBX) to see when registration windows occur.
 
 * To open the Online Registration System, click in the space below **Enter Input:** and type `nrttvr`, then select the Enter key.
   
