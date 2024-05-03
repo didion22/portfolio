@@ -18,7 +18,7 @@ The Online Registration System is an application in the UT Austin mainframe that
 >
 > The Online Registration System will only run during registration windows. Check your student's [Registration Information Sheet](https://utdirect.utexas.edu/registrar/ris.WBX) to see when registration windows occur.
 
-1. On the Student Portal start screen, click in the space below **Enter Input:** and type `nrttvr`, then press the Enter key.
+1. On the Student Portal startup screen, click in the space below **Enter Input:** and type `nrttvr`, then press the Enter key.
   
    <img width="790" alt="nrttvr" src="https://github.com/didion22/portfolio/assets/77946386/2ae87f56-7d47-407a-bbad-ea2c240b6e26">
 
