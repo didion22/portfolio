@@ -1,28 +1,28 @@
 # How to use the Online Registration System
 > This guide is intended for Graduate Coordinators, Student Advisors, and other academic administrators at UT Austin.
 
-Graduate student registration is handled using the Online Registration System in the UT mainframe. Whether you want to add or drop a class from a student's schedule, or change a class grading basis, this guide will walk you through accessing and using the Online Registration System.
+The Online Registration System is an application in the UT Austin mainframe that allows you to manage student registration. Using the Online Registration System, you can view a student's class schedule, add and drop classes, and change class grading bases. This guide will walk you through accessing and using the Online Registration System to complete basic registraton processes.
 
 ## Access the Student Portal in the UT mainframe
 1. Go to the [UT mainframe online](https://virtel.its.utexas.edu/w2h/appmenu.htm+applist).
 
 2. Sign in with your UT EID and password.
 
-3. Choose the option `Students COM-PLETE`, which will open the Student Portal.
+3. Choose the option `Students COM-PLETE`, which will access the Student Portal.
    
    <img width="1219" alt="students-com-plete" src="https://github.com/didion22/portfolio/assets/77946386/02743f67-3f92-4745-a891-12ad50a40584">
 
-## Open the Online Registration System
+## Run the Online Registration System application
 
 > [!NOTE]
 >
-> The Online Registration System is only accessible during registration windows. Check your student's [Registration Information Sheet](https://utdirect.utexas.edu/registrar/ris.WBX) to see when registration windows occur.
+> The Online Registration System will only run during registration windows. Check your student's [Registration Information Sheet](https://utdirect.utexas.edu/registrar/ris.WBX) to see when registration windows occur.
 
-1. To open the Online Registration System, click in the space below **Enter Input:** and type `nrttvr`, then press the Enter key.
+1. To run the Online Registration System application, click in the space below **Enter Input:** and type `nrttvr`, then press the Enter key.
   
    <img width="790" alt="nrttvr" src="https://github.com/didion22/portfolio/assets/77946386/2ae87f56-7d47-407a-bbad-ea2c240b6e26">
 
-2. On the Online Registration System start screen, type the UT EID of the student you are attempting to register, then press the Enter key. 
+2. Type the UT EID of the student you are attempting to register, then press the Enter key. 
 
    <img width="767" alt="Screenshot 2024-04-28 at 2 41 20 PM copy" src="https://github.com/didion22/portfolio/assets/77946386/5be8a8bf-136e-4878-be29-2c8c74a5cfa2">
 
@@ -32,7 +32,6 @@ Graduate student registration is handled using the Online Registration System in
 
 ## Adjust the Student's Class Schedule
 
----------------
 ### Add a Class 
 1. To add a class to a student's schedule, type `2` in the **ACTION CODE** field.
 
