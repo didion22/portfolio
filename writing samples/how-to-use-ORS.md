@@ -1,7 +1,7 @@
 # How to use the Online Registration System
 > This guide is intended for Graduate Coordinators, Student Advisors, and other academic administrators at UT Austin.
 
-The Online Registration System is an application in the UT Austin mainframe that allows you to manage student registration. Using the Online Registration System, you can view a student's class schedule, add and drop classes, and change class grading bases. This guide will walk you through accessing and using the Online Registration System to complete basic registraton processes.
+The Online Registration System is an application in the UT mainframe that allows you to manage student registration. Using the application, you can view a student's class schedule, add and drop classes, and change class grading bases. This guide will walk you through accessing and using the Online Registration System to complete basic registraton processes.
 
 ## Access the Student Portal in the UT mainframe
 1. Go to the [UT mainframe online](https://virtel.its.utexas.edu/w2h/appmenu.htm+applist).
